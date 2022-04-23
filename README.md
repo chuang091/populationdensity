@@ -5,5 +5,5 @@
 # step 2 轉檔 conversion
 因為一次將shp轉成geojson，會太大(116 MB)所以這邊會建議是分縣市去個別轉成geojson，
 最後再將.geojson以檔名的方式改成.js
-# step 3 Coding
-打開VS把建立一個檔案，以leaflet為基礎，設定對話框、互動、zoom等等細節都在index裡面，就可以了！
+# step 3 Coding 
+打開VS把建立一個檔案，以leaflet為基礎，設定對話框、互動、zoom等等細節都在index裡面，就可以了。
